@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'hi lo e iu à!',
+    introTitle: 'hi lo e iu của a  à!',
     introDesc: `E là người con gái a iu nhất sau mẹ e <33
     E sinh đẹp nhất sau mẹ a  <33  
     E cx đáng iu nhất sau mẹ a nốt! 
